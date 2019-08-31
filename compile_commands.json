@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/Users/carlobonandrini/develop/MandelbrotVisualization/build",
-  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -iframework /Library/Frameworks  -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -std=gnu++1z -o CMakeFiles/Mandelbrot.dir/src/main.cpp.o -c /Users/carlobonandrini/develop/MandelbrotVisualization/src/main.cpp",
-  "file": "/Users/carlobonandrini/develop/MandelbrotVisualization/src/main.cpp"
-}
-]
